@@ -1,0 +1,8 @@
+{
+	"error": {
+		"statusCode": 404,
+		"code": 40400,
+		"message": "Could not find path: /channels/test/publh",
+		"serverId": "frontend.cc4f.1.eu-west-1-A.i-005559b21e9c70a46"
+	}
+}
